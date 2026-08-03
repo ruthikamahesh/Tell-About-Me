@@ -1,0 +1,7 @@
+Name: Ruthika H M
+Department: Electronics and Communication engineering
+Year: Final Year
+College: Coorg Institute of Technology
+Hometown: H D Kote
+Skills: Python, Arduino,IOT
+Hobbies: Listening to Music, Learning new technologies 
